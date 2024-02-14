@@ -55,7 +55,7 @@ export default function Page() {
                 style={{ fontSize: yesButtonSize }}
                 onClick={() => setYesPressed(true)}
               >
-                Si obio
+                Si obvio
               </button>
 
               <button onClick={handleNoClick} className="no-button">

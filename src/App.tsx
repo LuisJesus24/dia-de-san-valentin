@@ -39,7 +39,7 @@ export default function Page() {
         {yesPressed ? (
           <>
             <img src="https://gifdb.com/images/high/beso-black-and-white-rnohre8hp77by601.gif" />
-            <div className="text-container">Ya sabia que si dd</div>
+            <div className="text-container">Eres lo mas bonito del mundo, te lo habia dicho?</div>
           </>
         ) : (
           <>

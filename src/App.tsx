@@ -48,14 +48,14 @@ export default function Page() {
               style={{ width: "400x", height: "240px" }}
               src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
             />
-            <h1 className="text-container">Quieres ser mi valentin?</h1>
+            <h1 className="text-container">Me perdonas?</h1>
             <div>
               <button
                 className={"yes-button"}
                 style={{ fontSize: yesButtonSize }}
                 onClick={() => setYesPressed(true)}
               >
-                Si obvio
+                SIIIIIIII
               </button>
 
               <button onClick={handleNoClick} className="no-button">
